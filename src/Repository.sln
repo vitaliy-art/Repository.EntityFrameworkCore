@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.EntityFrameworkCore", "Repository.EntityFrameworkCore\Repository.EntityFrameworkCore.csproj", "{EEE35ED6-951B-455D-8383-3DF6508C244A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.EntityFrameworkCore.Example", "Repository.EntityFrameworkCore.Example\Repository.EntityFrameworkCore.Example.csproj", "{1A5D46A8-9E6C-4B86-9F79-830E7A79F40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE35ED6-951B-455D-8383-3DF6508C244A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE35ED6-951B-455D-8383-3DF6508C244A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE35ED6-951B-455D-8383-3DF6508C244A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE35ED6-951B-455D-8383-3DF6508C244A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5D46A8-9E6C-4B86-9F79-830E7A79F40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5D46A8-9E6C-4B86-9F79-830E7A79F40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5D46A8-9E6C-4B86-9F79-830E7A79F40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5D46A8-9E6C-4B86-9F79-830E7A79F40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
